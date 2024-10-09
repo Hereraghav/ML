@@ -1,0 +1,2 @@
+Hello everyone , Here I am sharing my Data Science journey , I have worked on various datasets,
+This repository contains key notes on Data Science, covering various topics such as Database Theory, SQL commands, Joins, Keys, Normalization, and more. This covers entire process of learning ML to help in understanding important concepts of databases, data analysis, and SQL for beginners and professionals alike.
